@@ -1,0 +1,2 @@
+boto3>=1.40
+pypdf>=4.0   # only needed if poppler's pdftotext is not installed

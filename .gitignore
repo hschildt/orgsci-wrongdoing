@@ -1,0 +1,10 @@
+# Environment and caches (regenerable)
+.venv/
+__pycache__/
+.extraction_cache/
+.DS_Store
+
+# Copyrighted third-party works: not redistributed, see README_sources.md
+Ford_Pinto/Journalism_and_Ford_memo/Dowie_1977_Pinto_Madness_MotherJones_incl_Ford_cost-benefit_memo.txt
+Enron/Academic/Healy_Palepu_2003_The_Fall_of_Enron_JEP.pdf
+Purdue_OxyContin/Academic/VanZee_2009_Promotion_and_Marketing_of_OxyContin_AJPH.pdf
